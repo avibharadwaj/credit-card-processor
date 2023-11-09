@@ -1,4 +1,4 @@
-# individual-project-avibharadwaj
+# Credit Card Processor
 
 ## How to run
 
