@@ -3,7 +3,6 @@
 ## How to run
 
 ### Main app
-- Ensure your terminal is open at 'individual-project-avibharadwaj'
 - Run App.java in demo/src/main
 - Ensure your input files are inside 'individual-project-avibharadwaj' aka where the ReadME.md is located
 - Your output files will be created exactly where the input files are or will be overwritten if they already exist.
